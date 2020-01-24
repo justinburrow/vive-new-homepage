@@ -1,0 +1,6 @@
+development:
+  password: 960677db843c403a4f9fac5c8d921089
+  theme_id: "79573418067"
+  store: vive-organic-1234.myshopify.com
+  ignore_files:
+  - config/settings_data.json

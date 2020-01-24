@@ -1,0 +1,1567 @@
+{
+  "current": {
+    "color_primary": "#ffb500",
+    "color_header_text": "#eb5626",
+    "color_primary_heading_text": "#ffb500",
+    "color_primary_body_text": "#4a4a4a",
+    "color_footer_text": "#ffffff",
+    "color_button_text": "#ffffff",
+    "color_header_bg": "#ffffff",
+    "color_footer_bg": "#ffd227",
+    "color_main_bg": "#ffffff",
+    "color_secondary_bg": "#ffffff",
+    "color_product_cards": "#ffffff",
+    "color_form_elements": "#fafafa",
+    "color_cart_flag": "#d6001c",
+    "type_base_size": "62.5%",
+    "type_header_font": "montserrat_n7",
+    "type_base_font": "avenir_next_n4",
+    "show_cart_drawer": true,
+    "show_cart_note": false,
+    "share_image": "",
+    "share_facebook": true,
+    "share_twitter": true,
+    "share_pinterest": true,
+    "social_facebook_link": "https:\/\/www.facebook.com\/ViveOrganicShots",
+    "social_twitter_link": "https:\/\/twitter.com\/vive_organic",
+    "social_pinterest_link": "",
+    "social_instagram_link": "http:\/\/instagram.com\/vive_organic",
+    "social_snapchat_link": "",
+    "social_tumblr_link": "",
+    "social_youtube_link": "",
+    "social_vimeo_link": "",
+    "favicon": "shopify:\/\/shop_images\/vive-favicon_7a15f20f-73ae-49e2-a7fa-35576083803b.png",
+    "checkout_header_image": "",
+    "checkout_logo_image": "shopify:\/\/shop_images\/vive-orange-logo.png",
+    "checkout_logo_position": "center",
+    "checkout_logo_size": "large",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#fff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "shopify:\/\/shop_images\/orange-brushstrokes_4bdf0ce8-101b-4179-9f56-3ce621e06a4a.png",
+    "checkout_sidebar_background_color": "rgba(0,0,0,0)",
+    "checkout_heading_font": "Open Sans",
+    "checkout_body_font": "Open Sans",
+    "checkout_accent_color": "#b27e00",
+    "checkout_button_color": "#ffb500",
+    "checkout_error_color": "#d6001c",
+    "logo_max_height": "15",
+    "transparent_logo": "",
+    "sections": {
+      "slideshow": {
+        "type": "slideshow",
+        "blocks": {
+          "1558976005905": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Vive-Destini-Header-01.png",
+              "alignment": "center center",
+              "title": "",
+              "button": "",
+              "cta": "",
+              "cta_link": ""
+            }
+          },
+          "1577399871828": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Vive-Destini-Header-02.png",
+              "alignment": "center center",
+              "title": "",
+              "button": "",
+              "cta": "",
+              "cta_link": ""
+            }
+          },
+          "1577399982582": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Vive-Destini-Header-03.png",
+              "alignment": "center center",
+              "title": "",
+              "button": "",
+              "cta": "",
+              "cta_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1558976005905",
+          "1577399871828",
+          "1577399982582"
+        ],
+        "settings": {
+          "slider_height": "adapt",
+          "center_cta": false,
+          "show_overlay": true,
+          "overlay_color": "#ffffff",
+          "overlay_text": "#ffffff",
+          "overlay_opacity": 0
+        }
+      },
+      "header": {
+        "type": "header",
+        "settings": {
+          "icon": "bag",
+          "logo": "shopify:\/\/shop_images\/vive-red-logo.png",
+          "logo_max_height": "40",
+          "enable_transparent": true,
+          "transparent_logo": "",
+          "transparent_text_color": "#ffffff",
+          "primary_navigation": "main-menu",
+          "secondary_navigation": "footer",
+          "show_social_icons": true,
+          "show_announcement": false,
+          "home_page_only": true,
+          "announcement_text": "Welcome to our new home!",
+          "announcement_link": "",
+          "announcement_icon": "none",
+          "announcement_color_bg": "#ffffff",
+          "announcement_color_text": "#fab515"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "1486586799558": {
+            "type": "menu",
+            "settings": {
+              "link_list": "footer"
+            }
+          }
+        },
+        "block_order": [
+          "1486586799558"
+        ],
+        "settings": {
+          "show_social_icons": true,
+          "show_payment_icons": false,
+          "enable_parallax": true,
+          "show_newsletter": false,
+          "newsletter_heading": "The Vive Tribe",
+          "newsletter_subheading": "<p>Join us on the journey towards better health, one shot at a time.<\/p>"
+        }
+      },
+      "feature-row": {
+        "type": "feature-row",
+        "disabled": true,
+        "settings": {
+          "size": "small",
+          "background_color": "#ffffff",
+          "image": "shopify:\/\/shop_images\/cta-choosevive-01-cropped-test_bcd4251a-28e3-48c8-b27d-a5dfe5235514.png",
+          "image_crop": "square",
+          "alignment": "center center",
+          "title": "Why choose Vive Organic?",
+          "text": "<p>Wellness&nbsp;Boosts are crafted by a team of holistic Doctors from the finest ingredients nature has to offer. The result? Harmonious formulas that you can feel working at first sip.&nbsp;Start Your Wellness Journey with the&nbsp;Vive Tribe!<\/p>",
+          "use_second_button": false,
+          "button_label": "Meet the Doctors",
+          "button_link": "shopify:\/\/blogs\/news\/expertly-crafted",
+          "desktop_layout": "right",
+          "mobile_layout": "top"
+        }
+      },
+      "1486583009346": {
+        "type": "feature-row",
+        "disabled": true,
+        "settings": {
+          "size": "small",
+          "background_color": "#ffffff",
+          "image": "shopify:\/\/shop_images\/cta-meetfounders-01-test.png",
+          "image_crop": "square",
+          "alignment": "center center",
+          "title": "The Vive Promise",
+          "text": "<p>Our shots are never artificial. Never heated. Just the&nbsp;way nature intended. Meet the people behind Vive Organic and discover their journey towards better health for all.<\/p>",
+          "use_second_button": false,
+          "button_label": "Meet The Founders",
+          "button_link": "shopify:\/\/blogs\/news\/the-story-of-vive-organic",
+          "desktop_layout": "left",
+          "mobile_layout": "top"
+        }
+      },
+      "1486584613697": {
+        "type": "hero",
+        "disabled": true,
+        "settings": {
+          "hero_size": "small",
+          "image": "",
+          "alignment": "center center",
+          "title": "What is a FUNCTIONAL SHOT?",
+          "text": "<p>For decades, we&rsquo;ve depended on capsules, powders and droppers to obtain the concentrated ingredients that we know to be beneficial, like Echinacea, Turmeric and Ginger. Such methods require ingredients to be processed, dried or stored for long periods of time, stripping them of much nutritional value.&nbsp;Functional Shots deliver ingredients in the closest possible form to the living plants they originated from. By Cold-Pressing ingredients, we deliver the freshest and most pure forms of natural wellness in one delicious single serving.<\/p>",
+          "text_size": "medium",
+          "use_second_button": false,
+          "button_label": "",
+          "button_link": "",
+          "show_overlay": false,
+          "overlay_color": "#ffffff",
+          "overlay_text": "#fab515",
+          "overlay_opacity": "0"
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "products": "2",
+          "rows": "6",
+          "product_tags_enable": false,
+          "product_sorting_enable": true,
+          "collection_hero_image": true,
+          "collection_hero_image_parallax": true,
+          "grid_style": "grid",
+          "show_spacing": true,
+          "show_vendor": false
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "show_quantity_selector": true,
+          "show_variant_labels": false,
+          "show_vendor": false,
+          "hide_variant_images": false,
+          "enable_payment_button": true,
+          "show_share_buttons": true
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "settings": {
+          "grid_style": "collage",
+          "articles": "2",
+          "rows": "4",
+          "blog_show_date": true
+        }
+      },
+      "article-template": {
+        "type": "article-template",
+        "settings": {
+          "image_parallax": true,
+          "show_date": true,
+          "show_author": false,
+          "show_share_buttons": true
+        }
+      },
+      "1557876972846": {
+        "type": "rich-text",
+        "disabled": true,
+        "settings": {
+          "full_width": true,
+          "section_title": "Unwavering Commitment to Quality",
+          "text": "<p>Vive Organic is dedicated to providing the highest quality, which extends far beyond our USDA Organic and Kosher Certifications. We&rsquo;ve assessed hundreds of farms around the world, and exclusively source our ingredients from the top tier of organic farms. We never use artificial colors or any type of sweeteners &ndash; not even stevia, honey or sugar. We believe that nature alone should determine the color and flavor of our Wellness Shots.<\/p>",
+          "text_size": "medium"
+        }
+      },
+      "1557877038571": {
+        "type": "custom-content",
+        "blocks": {
+          "1557877156075": {
+            "type": "product",
+            "settings": {
+              "product": "immunity-boost",
+              "show_spacing": false,
+              "width": "25%",
+              "alignment": "center"
+            }
+          },
+          "1576711481753": {
+            "type": "product",
+            "settings": {
+              "product": "immunity-boost-elderberry",
+              "show_spacing": false,
+              "width": "25%",
+              "alignment": "center"
+            }
+          },
+          "1557877083090": {
+            "type": "product",
+            "settings": {
+              "product": "immunity-boost-cayenne",
+              "show_spacing": false,
+              "width": "25%",
+              "alignment": "center"
+            }
+          },
+          "1576615407069": {
+            "type": "product",
+            "settings": {
+              "product": "wellness-rescue",
+              "show_spacing": false,
+              "width": "25%",
+              "alignment": "center"
+            }
+          }
+        },
+        "block_order": [
+          "1557877156075",
+          "1576711481753",
+          "1557877083090",
+          "1576615407069"
+        ],
+        "settings": {
+          "heading_text": "",
+          "heading_color": "#eb5626",
+          "background_color": "",
+          "top_margin": true,
+          "bottom_margin": false
+        }
+      },
+      "1557949571931": {
+        "type": "custom-content",
+        "disabled": true,
+        "blocks": {
+          "1557949594862": {
+            "type": "html",
+            "settings": {
+              "code": "<div id=\"insta-feed\"><\/div>",
+              "width": "100%",
+              "alignment": "center"
+            }
+          }
+        },
+        "block_order": [
+          "1557949594862"
+        ],
+        "settings": {
+          "heading_text": "",
+          "heading_color": "#3a3a3a",
+          "background_color": "",
+          "top_margin": false,
+          "bottom_margin": false
+        }
+      },
+      "1558136486179": {
+        "type": "hero",
+        "disabled": true,
+        "settings": {
+          "hero_size": "medium",
+          "image": "shopify:\/\/shop_images\/Venice_shot.JPG",
+          "alignment": "center center",
+          "title": "Unwavering Commitment to Quality",
+          "text": "<p>Vive Organic is dedicated to providing the highest quality, which extends far beyond our USDA Organic and Kosher Certifications. We&rsquo;ve assessed hundreds of farms around the world, and exclusively source our ingredients from the top tier of organic farms. We never use artificial colors or any type of sweeteners &ndash; not even stevia, honey or sugar. We believe that nature alone should determine the color and flavor of our&nbsp;Functional Shots.<\/p>",
+          "text_size": "medium",
+          "use_second_button": false,
+          "button_label": "",
+          "button_link": "",
+          "show_overlay": true,
+          "overlay_color": "#7c4d3a",
+          "overlay_text": "#ffffff",
+          "overlay_opacity": "0.65"
+        }
+      },
+      "1558461855154": {
+        "type": "custom-content",
+        "blocks": {
+          "1558461865807": {
+            "type": "html",
+            "settings": {
+              "code": "<!-- Begin Mailchimp Signup Form -->\n<link href=\"\/\/cdn-images.mailchimp.com\/embedcode\/horizontal-slim-10_7.css\" rel=\"stylesheet\" type=\"text\/css\">\n<style type=\"text\/css\">\n\t#mc_embed_signup{background:#FFB500; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}\n\t\/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.\n\t   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. *\/\n<\/style>\n<div id=\"mc_embed_signup\">\n<form action=\"https:\/\/vive-organic.us14.list-manage.com\/subscribe\/post?u=4b2b3feec8f34c20db2ffb665&amp;id=3e390d504e\" method=\"post\" id=\"mc-embedded-subscribe-form\" name=\"mc-embedded-subscribe-form\" class=\"validate\" target=\"_blank\" novalidate=\"\">\n    <div id=\"mc_embed_signup_scroll\">\n\t\n\t<input type=\"email\" value=\"\" name=\"EMAIL\" class=\"email\" id=\"mce-EMAIL\" placeholder=\"email address\" required=\"\">\n    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->\n    <div style=\"position: absolute; left: -5000px;\" aria-hidden=\"true\"><input type=\"text\" name=\"b_4b2b3feec8f34c20db2ffb665_3e390d504e\" tabindex=\"-1\" value=\"\"><\/div>\n    <div class=\"clear\"><input type=\"submit\" value=\"Join Now\" name=\"subscribe\" id=\"mc-embedded-subscribe\" class=\"button\"><\/div>\n    <\/div>\n<\/form>\n<\/div>\n<!--End mc_embed_signup-->",
+              "width": "100%",
+              "alignment": "center"
+            }
+          }
+        },
+        "block_order": [
+          "1558461865807"
+        ],
+        "settings": {
+          "heading_text": "",
+          "heading_color": "#3a3a3a",
+          "background_color": "#fcd3cb",
+          "top_margin": false,
+          "bottom_margin": false
+        }
+      },
+      "1559178104173": {
+        "type": "hero",
+        "disabled": true,
+        "settings": {
+          "hero_size": "small",
+          "image": "shopify:\/\/shop_images\/orange-background-cropped3Artboard_1.jpg",
+          "alignment": "top center",
+          "title": "Start Your Wellness Journey with the Vive Tribe!",
+          "text": "",
+          "text_size": "medium",
+          "use_second_button": false,
+          "button_label": "",
+          "button_link": "",
+          "show_overlay": true,
+          "overlay_color": "rgba(0,0,0,0)",
+          "overlay_text": "#ffffff",
+          "overlay_opacity": "1"
+        }
+      },
+      "cart-template": {
+        "type": "cart-template",
+        "settings": {
+          "cart_notes_enable": false
+        }
+      },
+      "1577400310133": {
+        "type": "custom-content",
+        "disabled": true,
+        "blocks": {
+          "1577400310133-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Asset_1.png",
+              "width": "50%",
+              "alignment": "center"
+            }
+          },
+          "1577400310133-0": {
+            "type": "text",
+            "settings": {
+              "heading_text": "Shots so fresh, they're functional",
+              "heading_color": "#eb5626",
+              "heading_style": "h1",
+              "paragraph_text": "<p>Vive Organic is the strongest wellness from earth. Fresh ingredients like organic ginger, turmeric root and echinacea* are cold-pressed in a concentrated shot to keep your body battle ready. No fillers. No messing around.&nbsp;<\/p>",
+              "paragraph_color": "#4a4a4a",
+              "paragraph_size": "1",
+              "width": "50%",
+              "alignment": "center",
+              "align_text": "left"
+            }
+          }
+        },
+        "block_order": [
+          "1577400310133-1",
+          "1577400310133-0"
+        ],
+        "settings": {
+          "heading_text": "",
+          "heading_color": "#3a3a3a",
+          "background_color": "#ffd227",
+          "top_margin": false,
+          "bottom_margin": false
+        }
+      },
+      "1577400666270": {
+        "type": "hero",
+        "settings": {
+          "hero_size": "large",
+          "image": "shopify:\/\/shop_images\/Asset_14.png",
+          "alignment": "center center",
+          "title": "",
+          "text": "",
+          "text_size": "medium",
+          "use_second_button": false,
+          "button_label": "",
+          "button_link": "",
+          "show_overlay": false,
+          "overlay_color": "#000000",
+          "overlay_text": "#ffffff",
+          "overlay_opacity": "0.5"
+        }
+      },
+      "1577400885265": {
+        "type": "hero",
+        "settings": {
+          "hero_size": "large",
+          "image": "shopify:\/\/shop_images\/Asset_11.png",
+          "alignment": "center center",
+          "title": "",
+          "text": "",
+          "text_size": "medium",
+          "use_second_button": false,
+          "button_label": "",
+          "button_link": "",
+          "show_overlay": true,
+          "overlay_color": "rgba(0,0,0,0)",
+          "overlay_text": "rgba(0,0,0,0)",
+          "overlay_opacity": "1"
+        }
+      },
+      "1577401462927": {
+        "type": "hero",
+        "settings": {
+          "hero_size": "large",
+          "image": "shopify:\/\/shop_images\/Asset_15.png",
+          "alignment": "center center",
+          "title": "",
+          "text": "",
+          "text_size": "medium",
+          "use_second_button": false,
+          "button_label": "",
+          "button_link": "",
+          "show_overlay": false,
+          "overlay_color": "#000000",
+          "overlay_text": "#ffffff",
+          "overlay_opacity": "0.5"
+        }
+      },
+      "1577403103797": {
+        "type": "hero",
+        "settings": {
+          "hero_size": "x-large",
+          "image": "shopify:\/\/shop_images\/Asset_11_5512933a-0265-41ed-847f-e95028e40497.png",
+          "alignment": "center center",
+          "title": "",
+          "text": "",
+          "text_size": "medium",
+          "use_second_button": false,
+          "button_label": "",
+          "button_link": "",
+          "show_overlay": false,
+          "overlay_color": "#000000",
+          "overlay_text": "#ffffff",
+          "overlay_opacity": "0.5"
+        }
+      },
+      "1577403272404": {
+        "type": "hero",
+        "settings": {
+          "hero_size": "medium",
+          "image": "shopify:\/\/shop_images\/Asset_13.png",
+          "alignment": "center center",
+          "title": "",
+          "text": "",
+          "text_size": "medium",
+          "use_second_button": false,
+          "button_label": "",
+          "button_link": "",
+          "show_overlay": false,
+          "overlay_color": "#000000",
+          "overlay_text": "#ffffff",
+          "overlay_opacity": "0.5"
+        }
+      }
+    },
+    "content_for_index": [
+      "1577400666270",
+      "1577401462927",
+      "1577400885265",
+      "1557877038571",
+      "1577403103797",
+      "1577403272404",
+      "1558461855154",
+      "1486584613697",
+      "feature-row",
+      "1486583009346",
+      "1558136486179",
+      "1557876972846",
+      "1557949571931",
+      "1559178104173",
+      "1577400310133"
+    ]
+  },
+  "presets": {
+    "Warm": {
+      "color_primary": "#eb4f47",
+      "color_header_text": "#e1c9b4",
+      "color_primary_heading_text": "#4a4a4a",
+      "color_primary_body_text": "#4a4a4a",
+      "color_footer_text": "#4a4a4a",
+      "color_button_text": "#ffffff",
+      "color_header_bg": "#fff",
+      "color_footer_bg": "#eae7e0",
+      "color_main_bg": "#faf9f6",
+      "color_secondary_bg": "#f4f1ec",
+      "color_product_cards": "#fff",
+      "color_form_elements": "#fff",
+      "color_cart_flag": "#eb4f47",
+      "type_base_size": "62.5%",
+      "type_header_font": "monotype_baskerville_n4",
+      "type_base_font": "avenir_next_n4",
+      "show_cart_drawer": true,
+      "show_cart_note": false,
+      "share_facebook": true,
+      "share_twitter": true,
+      "share_pinterest": true,
+      "social_tumblr_link": "",
+      "social_youtube_link": "",
+      "social_vimeo_link": "",
+      "favicon": "",
+      "checkout_header_image": "",
+      "checkout_logo_image": "",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#fff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_heading_font": "Helvetica Neue",
+      "checkout_body_font": "Helvetica Neue",
+      "checkout_accent_color": "#1990C6",
+      "checkout_button_color": "#1990C6",
+      "checkout_error_color": "#ff6d6d",
+      "logo_max_height": "15",
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "icon": "bag",
+            "logo_max_height": "15",
+            "enable_transparent": true,
+            "transparent_text_color": "#ffffff",
+            "primary_navigation": "main-menu",
+            "secondary_navigation": "footer",
+            "show_social_icons": false
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "1486649858082": {
+              "type": "menu",
+              "settings": {
+                "link_list": "footer"
+              }
+            }
+          },
+          "block_order": [
+            "1486649858082"
+          ],
+          "settings": {
+            "show_social_icons": true,
+            "show_payment_icons": true,
+            "enable_parallax": true,
+            "show_newsletter": true
+          }
+        },
+        "1476381402840": {
+          "type": "video",
+          "settings": {}
+        },
+        "1476381658595": {
+          "type": "hero",
+          "settings": {
+            "hero_size": "large",
+            "image": "",
+            "alignment": "top left",
+            "text_size": "medium",
+            "use_second_button": false,
+            "button_label": "",
+            "button_link": "",
+            "show_overlay": false,
+            "overlay_color": "#000000",
+            "overlay_text": "#3a3a3a",
+            "overlay_opacity": "0.5"
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "products": "2",
+            "rows": "6",
+            "product_tags_enable": false,
+            "product_sorting_enable": false,
+            "collection_hero_image": false,
+            "collection_hero_image_parallax": false,
+            "show_spacing": false,
+            "show_vendor": true
+          }
+        },
+        "1478026923193": {
+          "type": "feature-row",
+          "settings": {
+            "size": "large",
+            "background_color": "#faf9f6",
+            "image_crop": "circle",
+            "alignment": "top left",
+            "use_second_button": false,
+            "button_label": "",
+            "button_link": "",
+            "desktop_layout": "left",
+            "mobile_layout": "top"
+          }
+        },
+        "1478027260401": {
+          "type": "quotes",
+          "blocks": {
+            "1478027260401-0": {
+              "type": "quote",
+              "settings": {}
+            },
+            "1478027389453": {
+              "type": "quote",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "1478027260401-0",
+            "1478027389453"
+          ],
+          "settings": {
+            "color_bg": "#000000",
+            "color_text": "#ffffff",
+            "autoplay_speed": "6000"
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {
+            "show_quantity_selector": false,
+            "show_variant_labels": true,
+            "show_vendor": false,
+            "hide_variant_images": true,
+            "show_share_buttons": true
+          }
+        },
+        "blog-template": {
+          "type": "blog-template",
+          "settings": {
+            "blog_show_date": true
+          }
+        },
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "1486649146314": {
+              "type": "image",
+              "settings": {}
+            },
+            "1486649185448": {
+              "type": "image",
+              "settings": {}
+            },
+            "1486649208703": {
+              "type": "image",
+              "settings": {}
+            },
+            "1486649267624": {
+              "type": "image",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "1486649146314",
+            "1486649185448",
+            "1486649208703",
+            "1486649267624"
+          ],
+          "settings": {
+            "show_overlay": true,
+            "overlay_color": "#313131",
+            "overlay_text": "#ffffff",
+            "overlay_opacity": 30
+          }
+        },
+        "1486649413883": {
+          "type": "gallery",
+          "blocks": {
+            "1486649413883-0": {
+              "type": "image",
+              "settings": {}
+            },
+            "1486649413883-1": {
+              "type": "image",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "1486649413883-0",
+            "1486649413883-1"
+          ],
+          "settings": {
+            "section_height": "medium",
+            "show_overlay": true,
+            "overlay_color": "#3b3b3b",
+            "overlay_text": "#ffffff",
+            "overlay_opacity": "0.4"
+          }
+        },
+        "1486649522802": {
+          "type": "highlight",
+          "settings": {
+            "border_color": "#cbc8c1",
+            "content_alignment": "middle",
+            "image_position": "back",
+            "use_second_button": false
+          }
+        },
+        "1486649604878": {
+          "type": "featured-slider",
+          "blocks": {
+            "1486649604878-0": {
+              "type": "slide",
+              "settings": {
+                "background_color": "#9d988b"
+              }
+            },
+            "1486649604878-1": {
+              "type": "slide",
+              "settings": {
+                "background_color": "#cdcdcd"
+              }
+            },
+            "1486649604878-2": {
+              "type": "slide",
+              "settings": {
+                "background_color": "#a7a59e"
+              }
+            },
+            "1486649769533": {
+              "type": "slide",
+              "settings": {
+                "background_color": "#383a3c"
+              }
+            }
+          },
+          "block_order": [
+            "1486649604878-0",
+            "1486649604878-1",
+            "1486649604878-2",
+            "1486649769533"
+          ],
+          "settings": {
+            "use_second_button": false,
+            "text_color": "#ffffff",
+            "cover_title_desktop_position": "center",
+            "show_overlay": true,
+            "overlay_color": "#404040",
+            "overlay_text": "#ffffff",
+            "overlay_opacity": "0.2"
+          }
+        },
+        "1486649811524": {
+          "type": "featured-product",
+          "settings": {
+            "layout": "square",
+            "image_size": "cover",
+            "background_color": "transparent",
+            "show_quantity_selector": false,
+            "show_variant_labels": true,
+            "show_vendor": false,
+            "show_share_buttons": true
+          }
+        },
+        "article-template": {
+          "type": "article-template",
+          "settings": {
+            "image_parallax": true,
+            "show_date": true,
+            "show_author": false,
+            "show_share_buttons": true
+          }
+        },
+        "1492806970384": {
+          "type": "custom-content",
+          "blocks": {
+            "1492806970384-0": {
+              "type": "text",
+              "settings": {
+                "heading_text": "",
+                "heading_color": "#3a3a3a",
+                "heading_style": "h4",
+                "width": "100%",
+                "alignment": "center",
+                "align_text": "center"
+              }
+            }
+          },
+          "block_order": [
+            "1492806970384-0"
+          ],
+          "settings": {
+            "heading_text": "",
+            "heading_color": "#3a3a3a",
+            "background_color": "",
+            "top_margin": true,
+            "bottom_margin": false
+          }
+        }
+      },
+      "content_for_index": [
+        "1478026923193",
+        "1476381402840",
+        "1476381658595",
+        "1486649413883",
+        "1478027260401",
+        "1492806970384",
+        "1486649522802",
+        "1486649604878",
+        "1486649811524"
+      ]
+    },
+    "Light": {
+      "color_primary": "#dfa160",
+      "color_header_text": "#dfa160",
+      "color_primary_heading_text": "#000000",
+      "color_primary_body_text": "#4a4a4a",
+      "color_footer_text": "#ffffff",
+      "color_button_text": "#ffffff",
+      "color_header_bg": "#fff",
+      "color_footer_bg": "#dfa160",
+      "color_main_bg": "#ffffff",
+      "color_secondary_bg": "#f7f7f7",
+      "color_product_cards": "#ebebeb",
+      "color_form_elements": "#f1f1f1",
+      "color_cart_flag": "#b76b50",
+      "type_base_size": "62.5%",
+      "type_header_font": "open_sans_n7",
+      "type_base_font": "open_sans_n4",
+      "show_cart_drawer": true,
+      "show_cart_note": false,
+      "share_facebook": true,
+      "share_twitter": true,
+      "share_pinterest": true,
+      "social_tumblr_link": "",
+      "social_youtube_link": "",
+      "social_vimeo_link": "",
+      "favicon": "",
+      "checkout_header_image": "",
+      "checkout_logo_image": "",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#fff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_heading_font": "Helvetica Neue",
+      "checkout_body_font": "Helvetica Neue",
+      "checkout_accent_color": "#1990C6",
+      "checkout_button_color": "#1990C6",
+      "checkout_error_color": "#ff6d6d",
+      "transparent_logo": "",
+      "logo_max_height": "15",
+      "sections": {
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "1486583739899": {
+              "type": "video",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "1486583739899"
+          ],
+          "settings": {
+            "show_overlay": true,
+            "overlay_color": "#ffffff",
+            "overlay_text": "#000000",
+            "overlay_opacity": 50
+          }
+        },
+        "header": {
+          "type": "header",
+          "settings": {
+            "icon": "bag",
+            "logo_max_height": "18",
+            "enable_transparent": true,
+            "transparent_text_color": "#dfa160",
+            "primary_navigation": "main-menu",
+            "secondary_navigation": "footer",
+            "show_social_icons": true
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "1486586799558": {
+              "type": "menu",
+              "settings": {
+                "link_list": "footer"
+              }
+            }
+          },
+          "block_order": [
+            "1486586799558"
+          ],
+          "settings": {
+            "show_social_icons": true,
+            "show_payment_icons": true,
+            "enable_parallax": true,
+            "show_newsletter": true
+          }
+        },
+        "feature-row": {
+          "type": "feature-row",
+          "settings": {
+            "size": "large",
+            "background_color": "#fafafa",
+            "image_crop": "square",
+            "alignment": "center center",
+            "use_second_button": false,
+            "button_label": "",
+            "button_link": "",
+            "desktop_layout": "left",
+            "mobile_layout": "top"
+          }
+        },
+        "gallery": {
+          "type": "gallery",
+          "blocks": {
+            "1486502632685-0": {
+              "type": "image",
+              "settings": {
+                "alignment": "center center",
+                "icon": "checkmark",
+                "link": ""
+              }
+            }
+          },
+          "block_order": [
+            "1486502632685-0"
+          ],
+          "settings": {
+            "section_height": "medium",
+            "show_overlay": true,
+            "overlay_color": "#000000",
+            "overlay_text": "#ffffff",
+            "overlay_opacity": "0.5"
+          }
+        },
+        "featured-slider": {
+          "type": "featured-slider",
+          "blocks": {
+            "1486503036275-0": {
+              "type": "slide",
+              "settings": {
+                "background_color": "#ebebeb",
+                "show_image": true,
+                "slide_button_text": "",
+                "slide_button_url": ""
+              }
+            },
+            "1486503036275-2": {
+              "type": "slide",
+              "settings": {
+                "background_color": "#ebebeb",
+                "show_image": true,
+                "slide_button_text": "",
+                "slide_button_url": ""
+              }
+            },
+            "1486503036275-1": {
+              "type": "slide",
+              "settings": {
+                "background_color": "#ebebeb",
+                "show_image": true,
+                "slide_button_text": "",
+                "slide_button_url": ""
+              }
+            },
+            "1487016418120": {
+              "type": "slide",
+              "settings": {
+                "background_color": "#ebebeb",
+                "show_image": false,
+                "slide_image": "",
+                "slide_title": ""
+              }
+            }
+          },
+          "block_order": [
+            "1486503036275-0",
+            "1486503036275-2",
+            "1486503036275-1",
+            "1487016418120"
+          ],
+          "settings": {
+            "use_second_button": true,
+            "text_color": "#000000",
+            "cover_title_desktop_position": "center",
+            "show_overlay": true,
+            "overlay_color": "rgba(0,0,0,0)",
+            "overlay_text": "#000000",
+            "overlay_opacity": "0.5"
+          }
+        },
+        "1486583009346": {
+          "type": "feature-row",
+          "settings": {
+            "size": "large",
+            "background_color": "#ffffff",
+            "image_crop": "none",
+            "alignment": "top left",
+            "use_second_button": false,
+            "button_label": "About us",
+            "desktop_layout": "right",
+            "mobile_layout": "bottom"
+          }
+        },
+        "1486584613697": {
+          "type": "hero",
+          "settings": {
+            "hero_size": "large",
+            "alignment": "center center",
+            "text": "",
+            "text_size": "medium",
+            "use_second_button": false,
+            "button_label": "",
+            "button_link": "",
+            "show_overlay": true,
+            "overlay_color": "#ffffff",
+            "overlay_text": "#3a3a3a",
+            "overlay_opacity": "0"
+          }
+        },
+        "1486584983006": {
+          "type": "highlight",
+          "settings": {
+            "border_color": "#dfa160",
+            "content_alignment": "middle",
+            "image_position": "back",
+            "use_second_button": false,
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "products": "2",
+            "rows": "6",
+            "product_tags_enable": false,
+            "product_sorting_enable": true,
+            "collection_hero_image": true,
+            "collection_hero_image_parallax": true,
+            "show_spacing": false,
+            "show_vendor": false
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {
+            "show_quantity_selector": false,
+            "show_variant_labels": true,
+            "show_vendor": true,
+            "hide_variant_images": true,
+            "show_share_buttons": true
+          }
+        },
+        "blog-template": {
+          "type": "blog-template",
+          "settings": {
+            "blog_show_date": true
+          }
+        },
+        "article-template": {
+          "type": "article-template",
+          "settings": {
+            "image_parallax": true,
+            "show_date": true,
+            "show_author": false,
+            "show_share_buttons": true
+          }
+        },
+        "1492008725684": {
+          "type": "hero",
+          "settings": {
+            "hero_size": "x-large",
+            "alignment": "top center",
+            "title": "",
+            "text": "",
+            "text_size": "medium",
+            "use_second_button": false,
+            "button_label": "Read our blog",
+            "show_overlay": false,
+            "overlay_color": "#000000",
+            "overlay_text": "#3a3a3a",
+            "overlay_opacity": "0.5"
+          }
+        },
+        "1492807242211": {
+          "type": "custom-content",
+          "blocks": {
+            "1492807242211-0": {
+              "type": "text",
+              "settings": {
+                "heading_text": "",
+                "heading_color": "#3a3a3a",
+                "heading_style": "h3",
+                "width": "100%",
+                "alignment": "center",
+                "align_text": "center"
+              }
+            }
+          },
+          "block_order": [
+            "1492807242211-0"
+          ],
+          "settings": {
+            "heading_text": "",
+            "heading_color": "#3a3a3a",
+            "background_color": "",
+            "top_margin": true,
+            "bottom_margin": false
+          }
+        }
+      },
+      "content_for_index": [
+        "feature-row",
+        "1486584613697",
+        "1486583009346",
+        "gallery",
+        "1492807242211",
+        "1486584983006",
+        "featured-slider",
+        "1492008725684"
+      ]
+    },
+    "Cold": {
+      "color_primary": "#00b490",
+      "color_header_text": "#00b490",
+      "color_primary_heading_text": "#ffffff",
+      "color_primary_body_text": "#a9a9a9",
+      "color_footer_text": "#000000",
+      "color_button_text": "#000000",
+      "color_header_bg": "#191c1b",
+      "color_footer_bg": "#00b490",
+      "color_main_bg": "#000000",
+      "color_secondary_bg": "#191c1b",
+      "color_product_cards": "#191c1b",
+      "color_form_elements": "#292c2b",
+      "color_cart_flag": "#ffffff",
+      "type_base_size": "62.5%",
+      "type_header_font": "titillium_web_n7",
+      "type_base_font": "lato_n4",
+      "show_cart_drawer": true,
+      "show_cart_note": false,
+      "share_facebook": true,
+      "share_twitter": true,
+      "share_pinterest": true,
+      "social_tumblr_link": "",
+      "social_youtube_link": "",
+      "social_vimeo_link": "",
+      "favicon": "",
+      "checkout_header_image": "",
+      "checkout_logo_image": "",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#fff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_heading_font": "Helvetica Neue",
+      "checkout_body_font": "Helvetica Neue",
+      "checkout_accent_color": "#1990C6",
+      "checkout_button_color": "#1990C6",
+      "checkout_error_color": "#ff6d6d",
+      "transparent_logo": "",
+      "logo_max_height": "15",
+      "sections": {
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "1486663529263": {
+              "type": "video",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "1486663529263"
+          ],
+          "settings": {
+            "show_overlay": true,
+            "overlay_color": "#000000",
+            "overlay_text": "#ffffff",
+            "overlay_opacity": 60
+          }
+        },
+        "header": {
+          "type": "header",
+          "settings": {
+            "icon": "cart",
+            "logo_max_height": "16",
+            "enable_transparent": true,
+            "transparent_text_color": "#00b490",
+            "primary_navigation": "main-menu",
+            "secondary_navigation": "footer",
+            "show_social_icons": true
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "1486664283354": {
+              "type": "menu",
+              "settings": {
+                "link_list": "footer"
+              }
+            }
+          },
+          "block_order": [
+            "1486664283354"
+          ],
+          "settings": {
+            "show_social_icons": true,
+            "show_payment_icons": true,
+            "enable_parallax": true,
+            "show_newsletter": true,
+            "newsletter_heading": "Sign up for updates"
+          }
+        },
+        "feature-row": {
+          "type": "feature-row",
+          "settings": {
+            "size": "large",
+            "background_color": "#191c1b",
+            "image_crop": "circle",
+            "alignment": "center center",
+            "use_second_button": false,
+            "desktop_layout": "left",
+            "mobile_layout": "top"
+          }
+        },
+        "gallery": {
+          "type": "gallery",
+          "blocks": {
+            "1486502632685-0": {
+              "type": "image",
+              "settings": {
+                "icon": "checkmark"
+              }
+            },
+            "1486502639654": {
+              "type": "image",
+              "settings": {
+                "icon": "checkmark"
+              }
+            },
+            "1486502643820": {
+              "type": "image",
+              "settings": {
+                "icon": "checkmark"
+              }
+            }
+          },
+          "block_order": [
+            "1486502632685-0",
+            "1486502639654",
+            "1486502643820"
+          ],
+          "settings": {
+            "section_height": "medium",
+            "show_overlay": true,
+            "overlay_color": "#000000",
+            "overlay_text": "#ffffff",
+            "overlay_opacity": "0.5"
+          }
+        },
+        "featured-slider": {
+          "type": "featured-slider",
+          "blocks": {
+            "1486503036275-0": {
+              "type": "slide",
+              "settings": {
+                "background_color": "#464f4e",
+                "show_image": true,
+                "slide_button_text": "View"
+              }
+            },
+            "1486503036275-1": {
+              "type": "slide",
+              "settings": {
+                "background_color": "#464f4e",
+                "show_image": true,
+                "slide_button_text": "View"
+              }
+            }
+          },
+          "block_order": [
+            "1486503036275-0",
+            "1486503036275-1"
+          ],
+          "settings": {
+            "use_second_button": true,
+            "text_color": "#ffffff",
+            "cover_title_desktop_position": "center",
+            "show_overlay": true,
+            "overlay_color": "#000000",
+            "overlay_text": "#ffffff",
+            "overlay_opacity": "0.5"
+          }
+        },
+        "featured-collection": {
+          "type": "featured-collection",
+          "settings": {
+            "show_view_all": true
+          }
+        },
+        "1486664864970": {
+          "type": "hero",
+          "settings": {
+            "hero_size": "large",
+            "alignment": "top center",
+            "use_second_button": false,
+            "button_label": "",
+            "button_link": "",
+            "show_overlay": true,
+            "overlay_color": "#00b490",
+            "overlay_text": "#ffffff",
+            "overlay_opacity": "0"
+          }
+        },
+        "1486665151632": {
+          "type": "highlight",
+          "settings": {
+            "border_color": "#00b490",
+            "content_alignment": "middle",
+            "image_position": "back",
+            "use_second_button": true
+          }
+        },
+        "1486665428106": {
+          "type": "feature-row",
+          "settings": {
+            "size": "large",
+            "background_color": "",
+            "image_crop": "none",
+            "alignment": "top left",
+            "use_second_button": false,
+            "button_label": "",
+            "button_link": "",
+            "desktop_layout": "right",
+            "mobile_layout": "bottom"
+          }
+        },
+        "1486665657092": {
+          "type": "gallery",
+          "blocks": {
+            "1486665657092-0": {
+              "type": "image",
+              "settings": {
+                "alignment": "center center",
+                "icon": "none",
+                "cta_label": "",
+                "link": ""
+              }
+            },
+            "1486665657092-1": {
+              "type": "image",
+              "settings": {
+                "alignment": "center center",
+                "icon": "none",
+                "cta_label": "",
+                "link": ""
+              }
+            }
+          },
+          "block_order": [
+            "1486665657092-0",
+            "1486665657092-1"
+          ],
+          "settings": {
+            "section_height": "medium",
+            "show_overlay": false,
+            "overlay_color": "#000000",
+            "overlay_text": "#ffffff",
+            "overlay_opacity": "0.3"
+          }
+        },
+        "1486665735205": {
+          "type": "hero",
+          "settings": {
+            "hero_size": "medium",
+            "alignment": "center center",
+            "title": "",
+            "text_size": "large",
+            "use_second_button": true,
+            "button_label": "about us",
+            "show_overlay": true,
+            "overlay_color": "#000000",
+            "overlay_text": "#ffffff",
+            "overlay_opacity": "0.5"
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {
+            "show_quantity_selector": false,
+            "show_variant_labels": true,
+            "show_vendor": true,
+            "hide_variant_images": true,
+            "show_share_buttons": true
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "products": "2",
+            "rows": "4",
+            "product_tags_enable": false,
+            "product_sorting_enable": false,
+            "collection_hero_image": false,
+            "collection_hero_image_parallax": false,
+            "show_spacing": false,
+            "show_vendor": true
+          }
+        },
+        "blog-template": {
+          "type": "blog-template",
+          "settings": {
+            "blog_show_date": true
+          }
+        },
+        "article-template": {
+          "type": "article-template",
+          "settings": {
+            "image_parallax": false,
+            "show_date": true,
+            "show_author": false,
+            "show_share_buttons": true
+          }
+        },
+        "1492804742195": {
+          "type": "custom-content",
+          "blocks": {
+            "1492804742195-0": {
+              "type": "text",
+              "settings": {
+                "heading_text": "",
+                "heading_color": "#3a3a3a",
+                "heading_style": "h3",
+                "width": "100%",
+                "alignment": "center",
+                "align_text": "center"
+              }
+            }
+          },
+          "block_order": [
+            "1492804742195-0"
+          ],
+          "settings": {
+            "heading_text": "",
+            "heading_color": "#3a3a3a",
+            "background_color": "#00b490",
+            "top_margin": true,
+            "bottom_margin": true
+          }
+        },
+        "1492805123317": {
+          "type": "custom-content",
+          "blocks": {
+            "1492805123317-0": {
+              "type": "text",
+              "settings": {
+                "heading_text": "",
+                "heading_color": "#ffffff",
+                "heading_style": "h3",
+                "width": "100%",
+                "alignment": "center",
+                "align_text": "center"
+              }
+            }
+          },
+          "block_order": [
+            "1492805123317-0"
+          ],
+          "settings": {
+            "heading_text": "",
+            "heading_color": "#3a3a3a",
+            "background_color": "",
+            "top_margin": true,
+            "bottom_margin": false
+          }
+        }
+      },
+      "content_for_index": [
+        "feature-row",
+        "1492804742195",
+        "1486664864970",
+        "gallery",
+        "1492805123317",
+        "1486665151632",
+        "1486665428106",
+        "1486665657092",
+        "1486665735205",
+        "featured-slider",
+        "featured-collection"
+      ]
+    }
+  }
+}
